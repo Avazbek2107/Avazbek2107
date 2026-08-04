@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=3000&pause=1000&color=2EA043&center=true&vCenter=true&width=600&lines=whoami;Ismatillayev+Avazbek;Computer+Engineering+Specialist;7%2B+yillik+dasturlash+tajribasi;Backend+%7C+Frontend+%7C+AI+%7C+CyberSec" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=3000&pause=1000&color=2EA043&center=true&vCenter=true&width=600&lines=whoami;Avazbek+Ismatillayev;Computer+Engineering+Specialist;7%2B+years+of+development+experience;Backend+%7C+Frontend+%7C+AI+%7C+CyberSec" alt="Typing SVG" />
 
 <br/>
 
@@ -17,12 +17,12 @@
 avazbek@portfolio:~$ cat about.md
 ```
 
-> 7 yildan ziyod dasturlash tajribasiga ega bo'lib, kompyuterning texnik hamda dasturiy tomonini
-> chuqur bilaman. **C++, C#, Java, Python va Django** yordamida Backend, **HTML/CSS/JavaScript**
-> yordamida Frontend dasturlash bilan shug'ullanaman. Zamonaviy sun'iy intellekt modellari
-> (**LLM, AI agentlar, Prompt Engineering**) hamda **no-code** platformalar yordamida tezkor va
-> samarali yechimlar yarataman. Bundan tashqari, **kiberxavfsizlik** va **server administratsiyasi**
-> (Linux, tarmoq va infratuzilma xavfsizligi) yo'nalishlarida ham faoliyat yuritaman.
+> With over 7 years of development experience, I have a deep understanding of both the technical
+> and software sides of computing. I work on Backend development with **C++, C#, Java, Python and
+> Django**, and Frontend development with **HTML/CSS/JavaScript**. I build fast and efficient
+> solutions using modern AI models (**LLM, AI agents, Prompt Engineering**) and **no-code**
+> platforms. I'm also active in **cybersecurity** and **server administration** (Linux, network
+> and infrastructure security).
 
 <br/>
 
@@ -57,13 +57,13 @@ avazbek@portfolio:~$ ls skills/ --levels
 ![Bubble](https://img.shields.io/badge/No--Code-Bubble%20%2F%20Webflow-0057FF?style=flat-square&logo=webflow&logoColor=white)
 ![Zapier](https://img.shields.io/badge/Automation-Zapier%20%2F%20Make-FF4A00?style=flat-square&logo=zapier&logoColor=white)
 
-**Xavfsizlik & Infratuzilma**
+**Security & Infrastructure**
 
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 ![Cybersecurity](https://img.shields.io/badge/Cybersecurity-CC0000?style=flat-square&logo=hackthebox&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 
-**Vositalar**
+**Tools**
 
 ![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=flat-square&logo=adobephotoshop&logoColor=white)
 ![Camtasia](https://img.shields.io/badge/Camtasia-4F9A41?style=flat-square&logo=techcrunch&logoColor=white)
@@ -71,21 +71,21 @@ avazbek@portfolio:~$ ls skills/ --levels
 
 <br/>
 
-## 📌 Loyihalar
+## 📌 Projects
 
 ```bash
 avazbek@portfolio:~$ gh repo list Avazbek2107 --sort created
 ```
 
-| Loyiha | Tavsif | Stack |
+| Project | Description | Stack |
 |---|---|---|
-| **[telegram-bot](https://github.com/Avazbek2107/telegram-bot)** | Instagram, TikTok va YouTube havolasi yuborilganda videoni yuklab beruvchi, admin uchun broadcast funksiyasi bo'lgan Telegram bot | Python |
-| **[well-known](https://github.com/Avazbek2107/well-known)** | Iqtisodiyot yo'nalishi talabalari uchun AKT fanidan ma'ruza, amaliyot, test va mustaqil ta'lim resurslarini o'z ichiga olgan zamonaviy o'quv platformasi | JavaScript |
-| **[element](https://github.com/Avazbek2107/element)** | Backend, frontend va Telegram bot komponentlaridan iborat, Docker orqali joylashtiriladigan to'liq CRM tizimi | JavaScript |
+| **[telegram-bot](https://github.com/Avazbek2107/telegram-bot)** | A Telegram bot that downloads videos when sent an Instagram, TikTok, or YouTube link, with a broadcast feature for the admin | Python |
+| **[well-known](https://github.com/Avazbek2107/well-known)** | A modern learning platform for Economics students, featuring lectures, practice exercises, tests, and self-study resources for the ICT course | JavaScript |
+| **[element](https://github.com/Avazbek2107/element)** | A full CRM system made up of backend, frontend, and Telegram bot components, deployed via Docker | JavaScript |
 
 <br/>
 
-## 📊 GitHub Statistikasi
+## 📊 GitHub Stats
 
 <div align="center">
 
@@ -98,17 +98,17 @@ avazbek@portfolio:~$ gh repo list Avazbek2107 --sort created
 
 <br/>
 
-## 🏆 Sertifikatlar (tanlanganlar)
+## 🏆 Certifications (selected)
 
-- **One Million Prompters** — AI Prompt Engineering — Raqamli texnologiyalar vazirligi / Dubai Future Foundation (2025)
+- **One Million Prompters** — AI Prompt Engineering — Ministry of Digital Technologies of Uzbekistan / Dubai Future Foundation (2025)
 - **Full Stack Developer Track** — Udacity / One Million Uzbek Coders (2022)
 - **Python 3 Programming Specialization** — University of Michigan / Coursera (2023)
 - **Introduction to Generative AI** — Google Cloud / Coursera (2025)
-- **Kiberxavfsizlik asoslari** — IT Study (2024)
+- **Cybersecurity Fundamentals** — IT Study (2024)
 
 <br/>
 
-## 📫 Bog'lanish
+## 📫 Contact
 
 <div align="center">
 
