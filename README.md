@@ -71,17 +71,6 @@ avazbek@portfolio:~$ ls skills/ --levels
 
 <br/>
 
-## 🎓 Ta'lim
-
-```bash
-avazbek@portfolio:~$ cat education.md
-```
-
-- 🎓 **TUIT** — Kompyuter muhandisligi (bakalavriat), 2016
-- 🎓 **O'zbekiston Milliy universiteti** — Axborot xavfsizligi (magistratura), 2021
-
-<br/>
-
 ## 📌 Loyihalar
 
 ```bash
