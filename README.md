@@ -71,22 +71,6 @@ avazbek@portfolio:~$ ls skills/ --levels
 
 <br/>
 
-## 💼 Ish tajribasi
-
-```bash
-avazbek@portfolio:~$ git log --oneline --experience
-```
-
-| Davr | Lavozim | Tashkilot |
-|---|---|---|
-| 2022 — hozirgacha | O'qituvchi | Guliston davlat universiteti |
-| 2022 — hozirgacha | Direktor | "Significant" MChJ |
-| 2021 — 2022 | O'qituvchi | IT-Park, Guliston |
-| 2020 — 2021 | Menejer | IT-Park, Guliston |
-| 2019 — 2020 | Tizim administratori | Toshkent |
-
-<br/>
-
 ## 🎓 Ta'lim
 
 ```bash
